@@ -1,2 +1,2 @@
-# Listas-de-exerc-cios
+# Listas-de-exercicios
 Trabalhos da faculdade
